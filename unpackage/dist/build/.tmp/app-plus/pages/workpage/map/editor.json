@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "q-s-input": "/components/QS-inputs-split/elements/QS-input/index",
+    "q-s-radio": "/components/QS-inputs-split/elements/QS-radio/index",
+    "q-s-checkbox": "/components/QS-inputs-split/elements/QS-checkbox/index",
+    "q-s-textarea": "/components/QS-inputs-split/elements/QS-textarea/index"
+  }
+}

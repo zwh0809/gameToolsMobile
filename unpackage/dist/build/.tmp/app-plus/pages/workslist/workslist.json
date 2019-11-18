@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "作品列表",
+  "usingComponents": {
+    "t-table": "/components/t-table/t-table",
+    "t-tr": "/components/t-table/t-tr",
+    "t-th": "/components/t-table/t-th",
+    "t-td": "/components/t-table/t-td",
+    "fa-icon": "/components/kilvn-fa-icon/fa-icon",
+    "cat-label": "/components/cat-label/cat-label",
+    "uni-collapse": "/components/uni-ui/uni-collapse/uni-collapse",
+    "uni-collapse-item": "/components/uni-ui/uni-collapse-item/uni-collapse-item",
+    "uni-list": "/components/uni-ui/uni-list/uni-list",
+    "uni-list-item": "/components/uni-ui/uni-list-item/uni-list-item",
+    "robby-image-upload": "/components/robby-image-upload/robby-image-upload",
+    "neil-modal": "/components/neil-modal/neil-modal",
+    "uni-tag": "/components/uni-ui/uni-tag/uni-tag"
+  }
+}

@@ -1,0 +1,61 @@
+
+.property {
+	font-size: 32rpx;
+	color: #666666;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
+.one_property {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
+.one_property2 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+}
+.title {
+	margin-left: 20rpx;
+}
+.uni-button {
+	text-align: center;
+	font-size: 32rpx;
+	color: #666666;
+	height: 60rpx;
+	line-height: 60rpx;
+	border-radius: 10rpx;
+	margin-top: 20rpx;
+	margin-left: 0px;
+}
+.other {
+	padding: 10px;
+	width: 30% !important;
+}
+.icon {
+	margin-top: 40rpx;
+}
+.uni-button2 {
+	width: 100%;
+	margin-top: 20rpx;
+}
+

@@ -1,0 +1,17 @@
+
+.margin-top{
+		margin-top: 20rpx;
+}
+.one{
+		-webkit-box-flex: 0 !important;
+		-webkit-flex: none !important;
+		    -ms-flex: none !important;
+		        flex: none !important;
+		width: 20% !important;
+}
+	/* 
+.one {
+	
+	width: 20% !important;
+} */
+

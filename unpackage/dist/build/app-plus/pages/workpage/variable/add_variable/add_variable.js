@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"uni-form-item .",[1],"title { padding: ",[0,20]," 0; }\n",],undefined,{path:"./pages/workpage/variable/add_variable/add_variable.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/workpage/variable/add_variable/add_variable.wxml') } }));

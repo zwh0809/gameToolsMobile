@@ -1,0 +1,8 @@
+
+.margin-top {
+	margin-top: 20rpx;
+}
+.QS-segmented-control {
+	border-bottom: 1px solid #e5e5e5;
+}
+

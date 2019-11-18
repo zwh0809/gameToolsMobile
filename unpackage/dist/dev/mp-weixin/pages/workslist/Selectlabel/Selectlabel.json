@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "cat-label": "/components/cat-label/cat-label",
+    "uni-collapse": "/components/uni-ui/uni-collapse/uni-collapse",
+    "uni-collapse-item": "/components/uni-ui/uni-collapse-item/uni-collapse-item",
+    "uni-list": "/components/uni-ui/uni-list/uni-list",
+    "uni-list-item": "/components/uni-ui/uni-list-item/uni-list-item",
+    "uni-tag": "/components/uni-ui/uni-tag/uni-tag"
+  }
+}

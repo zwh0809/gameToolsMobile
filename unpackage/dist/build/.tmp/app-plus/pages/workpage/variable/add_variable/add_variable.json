@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "q-s-input": "/components/QS-inputs-split/elements/QS-input/index",
+    "q-s-textarea": "/components/QS-inputs-split/elements/QS-textarea/index"
+  }
+}

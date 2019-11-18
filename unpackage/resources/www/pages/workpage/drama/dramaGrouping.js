@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"margin-top{ margin-top: ",[0,20],"; }\n",],undefined,{path:"./pages/workpage/drama/dramaGrouping.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/workpage/drama/dramaGrouping.wxml') } }));

@@ -1,0 +1,9 @@
+
+.margin-top {
+	margin-top: 20rpx;
+}
+.addboder {
+	border-bottom: 1px solid #f2f2f2;
+}
+
+

@@ -1,0 +1,62 @@
+
+.margin-top {
+	margin-top: 20rpx;
+}
+.one {
+	-webkit-box-flex: 0 !important;
+	-webkit-flex: none !important;
+	    -ms-flex: none !important;
+	        flex: none !important;
+	width: 20% !important;
+}
+.tow {
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
+.unfold {
+	font-size: 28rpx;
+	color: #0081ff;
+	margin-left: 50rpx;
+}
+.isActive {
+	height: auto;
+	word-break: break-all;
+	word-wrap: break-word !important;
+	white-space: pre-wrap !important;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
+.iconbox{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;     /* 垂直居中 */
+}
+.biaoge{
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+}
+

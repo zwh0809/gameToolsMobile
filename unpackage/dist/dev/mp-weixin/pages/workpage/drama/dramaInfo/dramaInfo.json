@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "uni-popup": "/components/uni-ui/uni-popup/uni-popup",
+    "uni-collapse": "/components/uni-ui/uni-collapse/uni-collapse",
+    "uni-collapse-item": "/components/uni-ui/uni-collapse-item/uni-collapse-item",
+    "uni-list": "/components/uni-ui/uni-list/uni-list",
+    "uni-list-item": "/components/uni-ui/uni-list-item/uni-list-item",
+    "uni-segmented-control": "/components/uni-ui/uni-segmented-control/uni-segmented-control",
+    "tki-tree": "/components/tki-tree/tki-tree"
+  }
+}

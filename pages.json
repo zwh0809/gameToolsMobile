@@ -1,0 +1,178 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	{
+	    "path": "pages/login/login",
+	    "style": {
+			"navigationBarTitleText": "账号登录"
+		}
+	},
+	    {
+            "path" : "pages/workslist/workslist",
+            "style" : {
+				// "navigationBarTitleText": "作品列表"
+			}
+        }
+        ,{
+            "path" : "pages/dictionarieslist/dictionarieslist",
+            "style" : {
+				"navigationBarTitleText": "词组列表"
+			}
+        }
+        ,{
+            "path" : "pages/userinfo/userinfo",
+            "style" : {
+				// "navigationBarTitleText": "我的信息"
+			}
+        },
+		
+		{
+		    "path": "pages/login/forget",
+		    "style": {
+				// "navigationBarTitleText": "忘记密码"
+			}
+		}, {
+		    "path": "pages/login/register",
+		    "style": {
+				// "navigationBarTitleText": "注册账号"
+			} 
+		}
+		
+        ,{
+            "path" : "pages/dictionarieslist/add_data/add_data",
+            "style" : {
+			
+			}
+        }
+        ,{
+            "path" : "pages/workslist/editorform/editorform",
+           "style" : {
+           	// "navigationBarTitleText": "新建作品"
+           }
+        }
+        ,{
+            "path" : "pages/workslist/Selectlabel/Selectlabel",
+            "style" : {}
+        }
+        
+        ,{
+            "path" : "pages/grid/grid",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/workpage/map/map",
+            "style" : {}
+        },
+		{
+		    "path" : "pages/workpage/map/editor",
+		    "style" : {}
+		}
+        ,{
+            "path" : "pages/workpage/goods/goods",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/workpage/goods/editorCategory/editorCategory",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/workpage/goods/categoryGoods/categoryGoods",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/workpage/npc/npc",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/workpage/npc/categoryNpc/categoryNpc",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/workpage/npc/editorNpc/editorNpc",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/workpage/variable/variable",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/workpage/variable/add_variable/add_variable",
+            "style" : {}
+        },
+		{
+		    "path" : "pages/workpage/drama/dramaGrouping",
+		    "style" : {
+					// "navigationBarTitleText": "剧情分组"
+			}
+		},
+		{
+		    "path" : "pages/workpage/drama/EditorDramaGrouping",
+		    "style" : {
+					
+			}
+		}
+		
+        ,{
+            "path" : "pages/workpage/drama/dramaList/dramaList",
+            "style" : {}
+        },
+		{
+		    "path" : "pages/workpage/drama/dramaList/editordramaList",
+		    "style" : {}
+		}
+        ,{
+            "path" : "pages/workpage/drama/dramaInfo/dramaInfo",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/workpage/drama/dramaInfo/questions/questions",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/workpage/drama/dramaInfo/notmatching/notmatching",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/workpage/drama/dramaInfo/Wordsconversion/Wordsconversion",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/workpage/verbal/verbal",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/workpage/chat/chat",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "创作平台",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		 "app-plus": {"titleNView": false} 
+	},
+	"tabBar": {
+	    "color": "#7A7E83",
+	    "selectedColor": "#007AFF",
+	    "borderStyle": "black",
+	    "backgroundColor": "#F8F8F8",
+	    "list": [{
+	            "pagePath": "pages/workslist/workslist",
+	            "iconPath": "static/one.png",
+	            "selectedIconPath": "static/one_.png",
+	            "text": "作品列表"
+	        },
+	        {
+	           "pagePath": "pages/dictionarieslist/dictionarieslist",
+	            "iconPath": "static/tow.png",
+	            "selectedIconPath": "static/tow_.png",
+	            "text": "词组列表"
+	        }, {
+	             "pagePath": "pages/userinfo/userinfo",
+	            "iconPath": "static/three.png",
+	            "selectedIconPath": "static/three_.png",
+	            "text": "我的信息"
+	        } 
+	    ]
+	}
+}

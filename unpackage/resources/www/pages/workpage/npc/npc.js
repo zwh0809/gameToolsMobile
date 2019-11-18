@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"margin-top { margin-top: ",[0,20],"; }\n.",[1],"QS-segmented-control { border-bottom: 1px solid #e5e5e5; }\n",],undefined,{path:"./pages/workpage/npc/npc.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/workpage/npc/npc.wxml') } }));

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "q-s-picker-custom": "/components/QS-inputs-split/elements/QS-picker-custom/index",
+    "q-s-input": "/components/QS-inputs-split/elements/QS-input/index",
+    "q-s-textarea": "/components/QS-inputs-split/elements/QS-textarea/index"
+  }
+}

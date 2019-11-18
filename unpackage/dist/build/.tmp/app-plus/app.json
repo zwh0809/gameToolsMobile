@@ -1,0 +1,84 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/workslist/workslist",
+    "pages/dictionarieslist/dictionarieslist",
+    "pages/userinfo/userinfo",
+    "pages/login/forget",
+    "pages/login/register",
+    "pages/dictionarieslist/add_data/add_data",
+    "pages/workslist/editorform/editorform",
+    "pages/workslist/Selectlabel/Selectlabel",
+    "pages/grid/grid",
+    "pages/workpage/map/map",
+    "pages/workpage/map/editor",
+    "pages/workpage/goods/goods",
+    "pages/workpage/goods/editorCategory/editorCategory",
+    "pages/workpage/goods/categoryGoods/categoryGoods",
+    "pages/workpage/npc/npc",
+    "pages/workpage/npc/categoryNpc/categoryNpc",
+    "pages/workpage/npc/editorNpc/editorNpc",
+    "pages/workpage/variable/variable",
+    "pages/workpage/variable/add_variable/add_variable",
+    "pages/workpage/drama/dramaGrouping",
+    "pages/workpage/drama/EditorDramaGrouping"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "创作平台",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#007AFF",
+    "borderStyle": "black",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/workslist/workslist",
+        "iconPath": "static/one.png",
+        "selectedIconPath": "static/one_.png",
+        "text": "作品列表"
+      },
+      {
+        "pagePath": "pages/dictionarieslist/dictionarieslist",
+        "iconPath": "static/tow.png",
+        "selectedIconPath": "static/tow_.png",
+        "text": "词库列表"
+      },
+      {
+        "pagePath": "pages/userinfo/userinfo",
+        "iconPath": "static/three.png",
+        "selectedIconPath": "static/three_.png",
+        "text": "我的信息"
+      }
+    ]
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "gameToolsMobile",
+  "compilerVersion": "2.3.3",
+  "usingComponents": {
+    "fa-icon": "/components/kilvn-fa-icon/fa-icon",
+    "t-table": "/components/t-table/t-table",
+    "t-th": "/components/t-table/t-th",
+    "t-tr": "/components/t-table/t-tr",
+    "t-td": "/components/t-table/t-td",
+    "q-s-input": "/components/QS-inputs-split/elements/QS-input/index",
+    "q-s-radio": "/components/QS-inputs-split/elements/QS-radio/index",
+    "q-s-checkbox": "/components/QS-inputs-split/elements/QS-checkbox/index",
+    "q-s-textarea": "/components/QS-inputs-split/elements/QS-textarea/index",
+    "q-s-picker-date": "/components/QS-inputs-split/elements/QS-picker-date/index",
+    "q-s-picker-city": "/components/QS-inputs-split/elements/QS-picker-city/index",
+    "q-s-picker-custom": "/components/QS-inputs-split/elements/QS-picker-custom/index",
+    "q-s-picker-custom2": "/components/QS-inputs-split/elements/QS-picker-custom2/index",
+    "q-s-pics": "/components/QS-inputs-split/elements/QS-pics/index",
+    "q-s-infinite-pics": "/components/QS-inputs-split/elements/QS-infinitePics/index",
+    "q-switch": "/components/QS-inputs-split/elements/QS-switch/index"
+  }
+}
